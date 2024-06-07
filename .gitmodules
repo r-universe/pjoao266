@@ -5,6 +5,3 @@
 [submodule "addinsJoaoMelo"]
 	path = addinsJoaoMelo
 	url = https://github.com/cran/addinsJoaoMelo
-[submodule "bayesbr"]
-	path = bayesbr
-	url = https://github.com/pjoao266/bayesbr
